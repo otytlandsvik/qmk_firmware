@@ -121,3 +121,4 @@ via*.json
 /keyboards/**/keymaps/via/*
 /keyboards/**/keymaps/vial/*
 .direnv
+.ccls-cache/@home@ole@Documents@qmk_firmware
