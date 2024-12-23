@@ -24,7 +24,5 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define EE_HANDS
 
 /* Keyboard matrix assignments */
-#define MATRIX_ROW_PINS \
-    { GP6, GP7, GP8, GP9, GP10 }
-#define MATRIX_COL_PINS \
-    { GP22, GP21, GP20, GP19, GP18, GP17 }
+// #define MATRIX_ROW_PINS { GP6, GP7, GP8, GP9, GP10 }
+// #define MATRIX_COL_PINS { GP22, GP21, GP20, GP19, GP18, GP17 }
